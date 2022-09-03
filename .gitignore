@@ -15,6 +15,9 @@
 # production
 /build
 
+# others 
+/src/utils/serviceAccount.js
+
 # misc
 .DS_Store
 *.pem
